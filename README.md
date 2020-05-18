@@ -6,7 +6,7 @@ If you are not a developer, please use the [WooCommerce plugin page](https://wor
 
 ## Documentation
 * [WooCommerce Documentation](https://docs.woocommerce.com/documentation/plugins/woocommerce/)
-* [WooCommerce Code Reference](https://docs.woocommerce.com/wc-apidocs/)
+* [WooCommerce Code Reference](دي اول مشكله ههههههههههخ)
 * [WooCommerce REST API Docs](https://woocommerce.github.io/woocommerce-rest-api-docs/)
 
 ## Reporting Security Issues
